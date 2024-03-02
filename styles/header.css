@@ -1,0 +1,36 @@
+.top-side {
+  background-color: black;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  position: fixed;
+  left: 0;  
+  top: 0;
+}
+
+.title-page {
+  font-size: 40px;
+  font-weight: bold;
+  border-color: blue; 
+  border-style: solid;
+  padding-right: 20px;
+}
+
+.header-tab{
+  border-color: blue; 
+  border-style: solid;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 80px;
+}
+
