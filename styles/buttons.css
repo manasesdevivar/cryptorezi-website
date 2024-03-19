@@ -3,7 +3,6 @@
   align-items: center;
 }
 
-
 .thumbnail {
   height: 400px;
   width: 300px;
@@ -16,23 +15,6 @@
   margin-left: 100px;
 }
 
-/*
-.thumbnail-border {
-    width: 200px; /* Set the width of the image */
-    height: 470px; /* Set the height of the image */
-    animation: slide 3s infinite alternate; /* Apply animation */
-  }
-  
-  @keyframes slide {
-    from {
-      transform: translateX(0); /* Start position */
-    }
-    to {
-      transform: translateX(100px); /* End position */
-    } 
-}
-
-
 .title-text {
  font-size: 50px; 
  display: flex;
@@ -42,22 +24,17 @@
  text-align: center;
  color: rgb(212, 175, 55);
  padding-top: 60px;
-
  font-family: Arial, sans-serif;
  text-shadow: 3px 2px 4px #000000;
-
 }
 
 .title-size {
-
   padding-left: 50px;
   padding-right: 50px;
   width: 900px;
-  
 }
 
 .boxes {
-
   display: flex;
   flex-direction: row;
   justify-content: space-between; 
@@ -71,9 +48,4 @@
   padding-top: 200px;
   padding-left: 40px;
   justify-content: center;
-
-
-  
-  
- 
 }
