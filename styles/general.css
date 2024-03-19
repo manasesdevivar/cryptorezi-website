@@ -1,0 +1,18 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(248, 248, 248);
+  height: 400px;
+}
+
+.background-under-profile {
+  background-color: rgb(192, 192, 192);
+  background: linear-gradient(to left, #d8bb6a 0.1%, #000000 80%);
+  height: 669px;
+  margin: 0;
+}
